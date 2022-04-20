@@ -1,1 +1,1 @@
-# My Webpage Design
+# A Software Engineering school landing page
